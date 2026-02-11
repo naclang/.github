@@ -2,7 +2,7 @@
 
 ### `NaC Lang`
 
-Experience tranquility while browsing the internet with Zen! Our mission is to give you a perfect balance for speed, privacy and productivity
+Experience peace of mind while developing software with NaC! Our mission is to provide the perfect balance between speed and efficiency.
 
 <a href="#">Contribute</a> ·
 <a href="#">Website</a> ·
